@@ -1,0 +1,14 @@
+header{
+    position: relative;
+    top: 0px;
+    border : 2px solid black;
+    padding: 5px;
+    width: 100vw;
+    display: flex;
+}
+
+body{
+    background-image: url('../creature.png');
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
